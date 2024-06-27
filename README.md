@@ -1,7 +1,8 @@
-# 02_Back-end
+# React + Vite
 
-In this following project I have basically made my own API(basic) and a backend server and fetch data from the backend and have connected it with my frontend.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-From this whole project things I have learnt are all about CORS, How to connect front end with back end server (basic) and also learned about Proxies too...
+Currently, two official plugins are available:
 
-Make sure to check this out.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
